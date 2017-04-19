@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/model.xml",
+        "source": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/src/main/res/menu/model.xml"
+    },
+    {
+        "merged": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/model.xml",
+        "source": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/src/main/res/menu/model.xml"
+    },
+    {
+        "merged": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/src/main/res/menu/menu.xml"
+    }
+]

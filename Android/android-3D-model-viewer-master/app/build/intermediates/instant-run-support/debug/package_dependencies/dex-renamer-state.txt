@@ -1,0 +1,7 @@
+#Tue Apr 11 12:18:16 CST 2017
+base.0=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c26cf9a8aaee209ee6264034b86e6323942bcc76
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_8f99bc8f1bf29f2b489547dbd58659ac4275dc8f/classes.dex
+base.1=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_8f99bc8f1bf29f2b489547dbd58659ac4275dc8f
+file.0=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c26cf9a8aaee209ee6264034b86e6323942bcc76/classes.dex

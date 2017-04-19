@@ -1,0 +1,4 @@
+#Tue Apr 11 12:18:16 CST 2017
+base.0=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

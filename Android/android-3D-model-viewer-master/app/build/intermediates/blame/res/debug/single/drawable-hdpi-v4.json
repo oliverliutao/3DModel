@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher2.gif",
+        "source": "/Users/huanghui1/Desktop/3D_Model/Android/android-3D-model-viewer-master/app/src/main/res/drawable-hdpi/ic_launcher2.gif"
+    },
+    {
+        "merged": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher2.gif",
+        "source": "/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/src/main/res/drawable-hdpi/ic_launcher2.gif"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huanghui1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c26cf9a8aaee209ee6264034b86e6323942bcc76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f38c83f12a716b194c9cb450fc9d07b288f98d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bee4272000b54de33d0a834135a0135c3719babd">
+        <dex dex="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4cd540b6a16c8e896915b07117f474db1858c3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghui1/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/Users/huanghui1/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_8f99bc8f1bf29f2b489547dbd58659ac4275dc8f/classes.dex" />
+    </item>
+
+</items>
